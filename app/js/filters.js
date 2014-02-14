@@ -9,4 +9,3 @@ angular.module('myApp.filters', []).
     }
   }]);
 
-// dasjgdh kasjhd sa
